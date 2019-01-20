@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/ConsoleInputGym.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Scenes/MechCombatGym.unity
+    guid: 7b4ff24dcbe961d46a78c18f9811d6a9
+  - enabled: 0
+    path: Assets/Scenes/DiseaseAndDisinfect.unity
+    guid: 963f40d26185e9a469ebaad19fc96e59
+  - enabled: 0
+    path: Assets/Scenes/Weapons.unity
+    guid: 89a86148daa06014dad76016adab684f
+  - enabled: 0
+    path: Assets/Scenes/EnemyGym.unity
+    guid: a6fa6d428610d0e4c84028d260b17376
+  - enabled: 0
+    path: Assets/Scenes/DiseaseAndCombat.unity
+    guid: 54b7413a303abd94bb8bfdbf88e69534
+  - enabled: 1
+    path: Assets/Scenes/AttemptAtSalvage.unity
+    guid: e5c428a1ace361947ac3583391c8114d
+  m_configObjects: {}
